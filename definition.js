@@ -3,7 +3,7 @@ Blockly.Blocks['ads1015_read'] = {
 		this.jsonInit({
 			colour: "#4838f5",
 			tooltip: "Đọc giá trị ADC thô (0 - 2047)",
-			message0: "đọc ADC (raw) kênh %1",
+			message0: "ADS1015 đọc ADC (raw) kênh %1",
 			args0: [
 				{
 					"type": "field_dropdown",
@@ -35,7 +35,7 @@ Blockly.Blocks['ads1015_read_volt'] = {
 		this.jsonInit({
 			colour: "#4838f5",
 			tooltip: "Đọc giá trị ADC (Volt)",
-			message0: "đọc điện áp ADC kênh %1",
+			message0: "ADS1015 đọc điện áp ADC kênh %1",
 			args0: [
 				{
 					"type": "field_dropdown",
