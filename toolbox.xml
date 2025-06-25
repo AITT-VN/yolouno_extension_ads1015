@@ -1,0 +1,6 @@
+<xml xmlns="https://developers.google.com/blockly/xml" id="toolbox" style="display: none">
+  <category name="ads1015" colour="#4838f5" icon="compress">
+    <block type="ads1015_read" />
+    <block type="ads1015_read_volt" />
+  </category>
+</xml>
